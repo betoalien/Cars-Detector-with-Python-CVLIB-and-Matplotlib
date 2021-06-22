@@ -11,4 +11,6 @@ git clone https://github.com/betoalien/Cars-Detector-with-Python-CVLIB-and-Matpl
 
 python cars.py
 
+<img src="https://www.thealientek.com/images/cars_background.png">
+
 
